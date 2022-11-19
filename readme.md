@@ -2,6 +2,7 @@
 
 ## Courses
 - [x] [Course 01: Java Fundamentals: The Java Language](01-JavaFundamentals/readme.md)
+- [x] [Course 02: Getting Started with IntelliJ CE](02-IntelliJCE/readme.md)
 
 ## Used Tools
 * [IntelliJ IDEA](https://www.jetbrains.com/idea/)
