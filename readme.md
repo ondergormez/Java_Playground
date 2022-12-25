@@ -10,3 +10,17 @@
   * Plugin [CheckStyle-IDEA](https://plugins.jetbrains.com/plugin/1065-checkstyle-idea)
   * Plugin [Save Actions](https://plugins.jetbrains.com/plugin/7642-save-actions)
   * Plugin [SonarLint](https://plugins.jetbrains.com/plugin/7973-sonarlint)
+
+## Certificates
+
+### Course 01: Java Fundamentals: The Java Language
+
+![](00-Certificates/course01.png)
+
+### Course 02: Getting Started with IntelliJ CE
+
+![](00-Certificates/course02.png)
+
+### Course 03: Spring Framework: Spring 5 Fundamentals
+
+![](00-Certificates/course03.png)
